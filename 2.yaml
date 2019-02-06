@@ -1,0 +1,11 @@
+Parameters:
+        UnusedParameter:
+                Type: String
+
+        AnotherOne:
+                Type: String
+
+
+Resources:
+        S3Bucket:
+                Type: AWS::S3::Bucket
