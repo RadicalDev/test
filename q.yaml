@@ -1,0 +1,3 @@
+Resources:
+  NotAResource:
+    Type: AWS::S3::Busket
